@@ -22,7 +22,7 @@ If you hit `Super + Shift + 2`, you'll move the current focused application onto
 
 If you hold down `Super` and use the mouse to click on a window, you'll be able to rearrange where it sits. If you hold `Super` and use the right button on the mouse, you can freely resize the window.
 
-You close a window on `Super + W` (and close all windows on `Ctrl + Alt + Delete`).
+You close a window on `Super + W` or `Super + Q` (and close all windows on `Ctrl + Alt + Delete`).
 
 You can also go full screen with `Super + F` or even just full-width (keeping the top bar) with `Super + Alt + F` or full-screen within a window with `Super + Ctrl + F` (good for YouTube!).
 
@@ -70,7 +70,9 @@ It works well for controls or a terminal you want to interact with quickly witho
 
 Finally, there's a half-height Quake console that drops down over whatever workspace you're currently on. Toggle it with `Super + Grave`, and place a window there using `Super + Shift + Grave`.
 
-It opens with your default agent ready to go. To move a window off either scratchpad, send it directly to another workspace with something like `Super + Shift + 1`.
+It opens with your default agent ready to go. While the console holds a single window, it drops down as a centered panel rather than spanning the screen. Put a second app on it and it goes back to the full width, so the two have room to sit side by side.
+
+To move a window off either the scratchpad or the console, send it directly to another workspace with something like `Super + Shift + 1`.
 
 ### It takes some getting used to!
 
